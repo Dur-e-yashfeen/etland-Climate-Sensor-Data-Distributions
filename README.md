@@ -1,9 +1,3 @@
-Perfect — you’ve got the notebook ready, so the next step is to give it a **professional, concise GitHub README.md** that reviewers or collaborators can understand instantly.
-Here’s the complete Markdown content you can paste directly into your repository’s `README.md` file.
-
----
-
-````markdown
 # 🌍 Quick Visual Analyzer for Wetland & Climate Sensor Data Distributions
 
 ### Overview
